@@ -7,15 +7,15 @@ This application takes readings of the Wattmeter, Ammeter and Voltmeter from the
 OPEN - CIRCUIT TEST
 
 Iron Loss(Wi)
-Equivalent Exciting Resistance(Ro)
-Equivalent Exciting Reactance(Xo)
-Core-loss(Iw) and Magnetizing(Im) components of Current
+Equivalent Exciting Resistance(Ro); 
+Equivalent Exciting Reactance(Xo); 
+Core-loss(Iw) and Magnetizing(Im) components of Current; 
 No load Power Factor(pf).
 
 SHORT - CIRCUIT TEST
 
-Full load Copper Loss(Wcu)
-Equivalent Resistance(Re)
-Equivalent Reactance(Xe)
-Equivalent Impedance(Ze)
+Full load Copper Loss(Wcu); 
+Equivalent Resistance(Re); 
+Equivalent Reactance(Xe); 
+Equivalent Impedance(Ze); 
 Short circuit Power factor(pf).
